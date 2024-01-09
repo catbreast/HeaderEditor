@@ -76,3 +76,5 @@ Please note that some languages (such as zh-Hans) will not be translated on tran
 Copyright © 2017-2023 [FirefoxBar Team](https://team.firefoxcn.net)
 
 Open source licensed under [GPLv2](LICENSE).
+
+
